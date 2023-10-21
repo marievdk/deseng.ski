@@ -8,6 +8,7 @@ Visitors book:
 - 2020 Ben Cobley and Jordan Kotler - 1 covid
 - 2021 Jordan Kotler and Ben Collis - another covid
 - 2022 Mimi Reyburn and Abi Langbridge - 70 participants
+- 2023 Marie van der Klink - 56 participants
 ```
 
 Feel free to use this repo as a live document for working on future websites, it would be great to keep a lasting record! I have saved the state (as of 2020) in a release. 
